@@ -19,9 +19,9 @@ CarRent is a project that utilizes the Toastify, RainbowKit, and Smart Contract 
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/CarRent.git`
-2. Install dependencies: `npm install`
-3. Start the development server: `npm run dev`
+1. Clone the repository: `git clone https://github.com/Muhdsodiq/car-rentdapp`
+2. Install dependencies: `npm install or yarn install`
+3. Start the development server: `npm run dev or yarn dev`
 
 ## Usage
 
