@@ -2,6 +2,11 @@
 
 Welcome to the Car Rent DApp! This decentralized application (DApp) is designed for car rental ventures, providing a streamlined process for users to hire cars. Car owners can set their own hire rates, and the admin plays a crucial role in approving suitable cars for hire, ensuring the company's image is protected.
 
+Demo Link
+https://youtu.be/vVF20V4rN2Y
+
+Hosted Link
+https://carrent-dapp.vercel.app/
 
 ## Features
 
